@@ -30,9 +30,11 @@ for more information you can visit [Reeborg's world](http://reeborg.ca/reeborg.h
 
 ![square](./square.png)
 
-- Hurdle
+- Hurdle1
 ![hurdle](./reeborg2.png)
 
+- Hurdle2
+![hurdle2](./)
 ## How to run this on your device
 
 - Clone this repository
