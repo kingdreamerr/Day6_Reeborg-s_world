@@ -26,8 +26,12 @@ while num > 0:
 for more information you can visit [Reeborg's world](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Fchallenges_en.json&name=Alone&url=%2Fworlds%2Ftutorial_en%2Falone.json)
 
 #### Preview:
+- making a square:
 
-![square](./rock.png)
+![square](./square.png)
+
+- Hurdle
+![hurdle](./reeborg2.png)
 
 ## How to run this on your device
 
